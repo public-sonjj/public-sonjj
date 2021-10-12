@@ -5,7 +5,7 @@ Hiện tại tôi là một Coder vừa là một Webmaster đang sống và là
 ## Công cụ của tôi
 | Tên | Mô tả | Nên tảng |
 | --------------- | --------------- | --------------- |
-| Mail 10p | Đây là một cộng cụ tạo ra địa chỉ email tạm thời, giúp bạn chống thư rác,spam ,mã độc | Website |
+| Mail 10p | Đây là một cộng cụ giúp bạn tạo tạo ra địa chỉ email tạm thời, giúp bạn chống thư rác,spam ,mã độc | Website |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
