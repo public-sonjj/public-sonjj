@@ -16,5 +16,7 @@ Hiện tại tôi là một Coder vừa là một Webmaster đang sống và là
 
 **Sonjj Solution**: Dự án này sẽ đưa ra loạt giải pháp tối ưu các công việc nhàm chán trên máy tính. Ví dụ, bạn đang quản lý hàng trăm tại khoản Gmail, làm thế nào bạn có thể đăng nhập và kiểm tra hay đổi mật khẩu hàng loạt, bạn đang quản lý hàng trăm backlink làm thể nào bạn có thể kiểm tra backlink nào còn tồn tại, backlink nào đã mất v.v còn rất nhiều công việc khác nữa. Hiện tại dự án này đang trong quá trình thử nghiệm, tôi đang cố gắng để ra mắt các bạn sớm nhất có thể.
 
-## Công cụ tôi yêu thích
+## Công cụ và ngôn ngữ tôi yêu thích
+![](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white) ![](https://img.shields.io/badge/-php-777BB4?style=flat-square&logo=php&logoColor=white) ![](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/-airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white) ![](https://img.shields.io/badge/-mysql-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/-html5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/-tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/-vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
 
