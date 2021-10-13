@@ -14,7 +14,7 @@ Hiện tại tôi là một Coder vừa là một Webmaster đang sống và là
 | [Trình tạo thẻ tín dụng](https://cardgener.com "Trình tạo thẻ tín dụng") | Hẳn là bạn thường xuyên gặp trường hợp một website hoặc ứng dụng nào đó yêu cầu bạn nhập thẻ tín dụng của bạn vào để được một mã giảm giá, món quà .v.v . Điều đấy thật nguy hiểm, hãy tạo ngày một thẻ tín dụng ngẩu nhiên để bảo vệ thông tin cá nhân của bạn ngay bây giờ | Website |
 |[Tìm kiếm Vpn](https://teahog.com/ "Tìm kiếm Vpn") | Với công cụ này sẽ giúp bạn tìm kiếm và so sánh giữa các dịch vụ VPN với nhau, xem dịch vụ của bên nào ưu điểm nhược điểm. Giúp bạn đưa ra lựa chọn chính xác hơn | Website |
 
-**Sonjj Solution**: Dự án này sẽ đưa ra loạt giãi pháp tối ưu các công việc nhàm chán trên máy tính. Ví dụ, bạn đang quản lý hàng trăm tại khoản Gmail, làm thế nào bạn có thể đăng nhập và kiểm tra hay đổi mật khẩu hàng loạt, bạn đang quản lý hàng trăm backlink làm thể nào bạn có thể kiểm tra backlink nào còn tồn tại, backlink nào đã mất v.v còn rất nhiều công việc khác nữa. Hiện tại dự án này đang trong quá trình thử nghiệm, tôi đang cố gắng để ra mắt các bạn sớm nhất có thể
+**Sonjj Solution**: Dự án này sẽ đưa ra loạt giải pháp tối ưu các công việc nhàm chán trên máy tính. Ví dụ, bạn đang quản lý hàng trăm tại khoản Gmail, làm thế nào bạn có thể đăng nhập và kiểm tra hay đổi mật khẩu hàng loạt, bạn đang quản lý hàng trăm backlink làm thể nào bạn có thể kiểm tra backlink nào còn tồn tại, backlink nào đã mất v.v còn rất nhiều công việc khác nữa. Hiện tại dự án này đang trong quá trình thử nghiệm, tôi đang cố gắng để ra mắt các bạn sớm nhất có thể
 
 ## Công cụ tôi yêu thích
 
