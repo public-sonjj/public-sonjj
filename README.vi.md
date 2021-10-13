@@ -21,7 +21,6 @@ Hiện tại tôi là một Coder vừa là một Webmaster đang sống và là
 
 ## Bài viết gần nhất
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 
