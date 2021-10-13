@@ -3,7 +3,7 @@
 ## Hey! 👋, Tôi là Sonjj
 Hiện tại tôi là một Coder vừa là một Webmaster đang sống và làm việc tại thành phố Huế, Việt Nam. Công việc yêu thích hằng ngày của tôi là làm ra những công cụ hoặc giải pháp giúp tối ưu các công việc nhàm chán trên máy tính. 
 ## Dự án của tôi
-**Sonjj Tool**  là tên dự án mà tôi ấp ủ bấy lâu này, một bộ công cụ ẩn danh online. Dự án này chỉ mới ở mức khởi động, dưới đây là một số công cụ đã được đưa vào hoạt động.
+**Sonjj Tool**  là tên của một dự án mà tôi ấp ủ bấy lâu này, một bộ công cụ ẩn danh online. Dự án này chỉ mới ở mức khởi động, dưới đây là một số công cụ đã được đưa vào hoạt động.
 
 | Tên | Mô tả | Nền tảng &nbsp;&nbsp;&nbsp; |
 | --------------- | --------------- | :--------- |
