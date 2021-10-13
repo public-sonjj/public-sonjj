@@ -5,8 +5,8 @@ Hiện tại tôi là một Coder vừa là một Webmaster đang sống và là
 ## Dự án của tôi
 **Sonjj Tool**  là tên dự án mà tôi ấp ủ bấy lâu này, một bộ công cụ ẩn danh online. Dự án này chỉ mới ở mức khởi động, dưới đây là một số công cụ đã được đưa vào hoạt động.
 
-| Tên | Mô tả | Nền tảng |
-| --------------- | --------------- | --------------- |
+| Tên | Mô tả | Nền tảng &nbsp;&nbsp;&nbsp; |
+| --------------- | --------------- | :--------- |
 | [Mail 10p](https://smailpro.com "Mail 10p") | Đây là một cộng cụ giúp bạn tạo tạo ra địa chỉ email tạm thời, giúp bạn chống thư rác,spam ,mã độc | [![Temp Mail](https://img.shields.io/badge/web-live-green "Temp Mail")](https://smailpro.com "Temp Mail")  |
 | [Nhận tin nhắn online](https://smser.net "Nhận tin nhắn online") | Công cụ này sẽ giúp bạn ẩn danh số điện thoại của bạn, để nhận một tin nhắn từ một nơi nào đó mà bạn nghi ngờ người này sẽ bán điện thoại của bạn cho bên thứ 3, giúp bạn hạn chế tin nhắn rác, spam, lừa đảo | [![Receive Sms Online](https://img.shields.io/badge/web-live-green "Receive Sms Online")](https://smser.net "Receive Sms Online")   |
 | [Tạo tên người dùng ngẫu nhiên](https://ugener.com "Tạo tên người dùng ngẫu nhiên") | Chắc chắn bạn cảm thấy mệt mỏi khi nghĩ về tên người dùng cho một trang web hoặc ứng dụng ?, hoặc bạn không muốn thông tin cá nhân thực của mình bị lộ. Đừng lo lắng, đó là Ugener. Ugener là một trình tạo tên người dùng với hàng triệu ý tưởng ngẫu nhiên |   [![Username Generate](https://img.shields.io/badge/web-live-green "Username Generate")](https://ugener.com "Username Generate")  |
