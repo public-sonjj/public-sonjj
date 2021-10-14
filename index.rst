@@ -1,5 +1,6 @@
-|Visitor| |GitHub followers|\ |YouTube Channel Subscribers| ## Hey! 👋,
-Tôi là Sonjj Hiện tại tôi là một Coder vừa là một Webmaster đang sống và
+|Visitor| |GitHub followers|\ |YouTube Channel Subscribers| 
+## Hey! 👋,Tôi là Sonjj 
+Hiện tại tôi là một Coder vừa là một Webmaster đang sống và
 làm việc tại thành phố Huế, Việt Nam. Công việc yêu thích hằng ngày của
 tôi là làm ra những công cụ hoặc giải pháp giúp tối ưu các công việc
 nhàm chán trên máy tính. ## Dự án của tôi **Sonjj Tool** là tên của một
