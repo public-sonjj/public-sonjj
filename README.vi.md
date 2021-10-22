@@ -1,5 +1,6 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=public-sonjj/public-sonjj)](https://github.com/public-sonjj) [![GitHub followers](https://img.shields.io/github/followers/public-sonjj.svg?style=social&label=Follow)](https://github.com/public-sonjj?tab=followers)![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIevahX9MAHLL321q_x9-RQ?style=social)
+
 # Hey! 👋, Tôi là Sonjj
 Hiện tại tôi là một Coder vừa là một Webmaster đang sống và làm việc tại thành phố Huế, Việt Nam. Công việc yêu thích hằng ngày của tôi là làm ra những công cụ hoặc giải pháp giúp tối ưu các công việc nhàm chán trên máy tính. 
 
