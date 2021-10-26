@@ -74,24 +74,6 @@ can you check which backlinks are still available? there are many other
 jobs. Currently this project is in beta, I’m trying to get it to you
 guys as soon as possible.
 
-My latest posts
----------------
-
-.. raw:: html
-
-   <!-- BLOG-POST-LIST:START -->
-
--  `How to prevent GitHub from suspending your cronjob based
-   triggers <https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf>`__
--  `How I built one of the top 20 most used Github
-   Actions <https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/>`__
--  `Show your latest dev.to posts automatically on your GitHub profile
-   readme <https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8>`__
--  `God Mode in browsers: document.designMode =
-   “on” <https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo>`__
--  `Skipping the Chrome “Your connection is not private”
-   warning <https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1>`__
-
 .. |Visitor| image:: https://visitor-badge.laobi.icu/badge?page_id=public-sonjj/public-sonjj
    :target: https://github.com/public-sonjj
 .. |GitHub followers| image:: https://img.shields.io/github/followers/public-sonjj.svg?style=social&label=Follow
