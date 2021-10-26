@@ -1,0 +1,25 @@
+{
+  "name": "public-sonjj",
+  "version": "1.0.5",
+  "description": "Public Sonjj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-sonj/docs.git"
+  },
+  "keywords": [
+    "Tool",
+    "of",
+    "Sonjj"
+  ],
+  "author": "Sonjj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-sonj/docs/issues"
+  },
+  "homepage": "https://sonjj.com",
+  "dependencies": {}
+}
