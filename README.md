@@ -21,6 +21,7 @@ Currently I am a Coder and a Webmaster living and working in Hue city, Vietnam. 
 
 **Sonjj Solution**: This project will offer a series of solutions to optimize and automate boring tasks on computers. For example, you are managing hundreds of Gmail accounts, how can you log in and check or change your password in bulk, you are managing hundreds of backlinks how can you check which backlinks are still available? there are many other jobs. Currently this project is in beta, I'm trying to get it to you guys as soon as possible.
 
+## My latest posts
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
