@@ -1,6 +1,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=public-sonjj/public-sonjj)](https://github.com/public-sonjj) [![GitHub followers](https://img.shields.io/github/followers/public-sonjj.svg?style=social&label=Follow)](https://github.com/public-sonjj?tab=followers)![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIevahX9MAHLL321q_x9-RQ?style=social)
 
-# Hey! 👋, I am Sonjj
+# Hey!, I am Sonjj
 Currently I am a Coder and a Webmaster living and working in Hue city, Vietnam. My favorite day to day work is making tools or solutions to help optimize boring tasks on the computer.
 
 ## Tools and languages 
