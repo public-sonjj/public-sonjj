@@ -1,102 +1,96 @@
 |Visitor| |GitHub followers|\ |YouTube Channel Subscribers|
 
-Hey! 👋, Tôi là Sonjj
-====================
+Hey! 👋, I am Sonjj
+==================
 
-Hiện tại tôi là một Coder vừa là một Webmaster đang sống và làm việc tại
-thành phố Huế, Việt Nam. Công việc yêu thích hằng ngày của tôi là làm ra
-những công cụ hoặc giải pháp giúp tối ưu các công việc nhàm chán trên
-máy tính.
+Currently I am a Coder and a Webmaster living and working in Hue city,
+Vietnam. My favorite day to day work is making tools or solutions to
+help optimize boring tasks on the computer.
 
-Công cụ và ngôn ngữ tôi yêu thích
----------------------------------
+Tools and languages
+-------------------
 
 |image1| |image2| |image3| |image4| |image5| |image6| |image7| |image8|
 |image9| |image10| |image11| |image12| |image13|
 
-Dự án của tôi
--------------
+My project
+----------
 
-**Sonjj Tool** là tên của một dự án mà tôi ấp ủ bấy lâu này, một bộ công
-cụ ẩn danh online. Dự án này chỉ mới ở mức khởi động, dưới đây là một số
-công cụ đã được đưa vào hoạt động.
+**Sonjj Tool** is the name of a project I’ve had for a long time, an
+online anonymity toolkit. This project is just getting started, here are
+some of the tools that are already in the works.
 
 +--------------------------+--------------------------+-----------------+
-| Tên                      | Mô tả                    | Nền tảng        |
+| Name                     | Description              | OS/app          |
 +==========================+==========================+=================+
-| `Mail                    | Đây là một cộng cụ giúp  | |Temp Mail|     |
-| 10p <                    | bạn tạo tạo ra địa chỉ   |                 |
-| https://smailpro.com>`__ | email tạm thời, giúp bạn |                 |
-|                          | chống thư rác, spam, mã  |                 |
-|                          | độc                      |                 |
+| `Temp                    | Instantly create a       | |Temp Mail|     |
+| Mail <                   | temporary email address  |                 |
+| https://smailpro.com>`__ | to protect you from      |                 |
+|                          | spam, phishing and       |                 |
+|                          | malware. No commitments  |                 |
+|                          | and no risks.            |                 |
 +--------------------------+--------------------------+-----------------+
-| `Nhận tin nhắn           | Công cụ này sẽ giúp bạn  | |Receive Sms    |
-| onlin                    | ẩn danh số điện thoại    | Online|         |
-| e <https://smser.net>`__ | của bạn, để nhận một tin |                 |
-|                          | nhắn từ một nơi nào đó   |                 |
-|                          | mà bạn nghi ngờ người    |                 |
-|                          | này sẽ bán điện thoại    |                 |
-|                          | của bạn cho bên thứ 3,   |                 |
-|                          | giúp bạn hạn chế tin     |                 |
-|                          | nhắn rác, spam, lừa đảo  |                 |
+| `Receive SMS             | Our phone numbers will   | |Receive Sms    |
+| Onlin                    | help you verify          | Online|         |
+| e <https://smser.net>`__ | registration of various  |                 |
+|                          | sites. Or you want to    |                 |
+|                          | receive a message that   |                 |
+|                          | does not want to reveal  |                 |
+|                          | your real phone number.  |                 |
+|                          | Try our service now.     |                 |
 +--------------------------+--------------------------+-----------------+
-| `Tạo tên người dùng ngẫu | Chắc chắn bạn cảm thấy   | |Username       |
-| nhiên                    | mệt mỏi khi nghĩ về tên  | Generate|       |
-|  <https://ugener.com>`__ | người dùng cho một trang |                 |
-|                          | web hoặc ứng dụng ?,     |                 |
-|                          | hoặc bạn không muốn      |                 |
-|                          | thông tin cá nhân thực   |                 |
-|                          | của mình bị lộ. Đừng lo  |                 |
-|                          | lắng, đó là Ugener.      |                 |
-|                          | Ugener là một trình tạo  |                 |
-|                          | tên người dùng với hàng  |                 |
-|                          | triệu ý tưởng ngẫu nhiên |                 |
+| `Username                | The best username        | |Username       |
+| generator                | generator out there.     | Generate|       |
+|  <https://ugener.com>`__ | Simple, fast, free are   |                 |
+|                          | the goals that we want   |                 |
+|                          | to bring to you. Keep    |                 |
+|                          | your personal            |                 |
+|                          | information away from    |                 |
+|                          | hackers.                 |                 |
 +--------------------------+--------------------------+-----------------+
-| `Kiểm tra                | Đây là công cụ giúp bạn  | |Email Checker| |
-| Email <                  | kiểm tra một địa chỉ     |                 |
-| https://ychecker.com>`__ | email có thật sự tồn tại |                 |
-|                          | hay không                |                 |
+| `Email                   | Ychecker is a tool that  | |Email Checker| |
+| Checker <                | helps you to check if an |                 |
+| https://ychecker.com>`__ | email address exists or  |                 |
+|                          | not.                     |                 |
 +--------------------------+--------------------------+-----------------+
-| `Trình tạo thẻ tín       | Hẳn là bạn thường xuyên  | |Credit Card    |
-| dụng <h                  | gặp trường hợp một       | Generator|      |
-| ttps://cardgener.com>`__ | website hoặc ứng dụng    |                 |
-|                          | nào đó yêu cầu bạn nhập  |                 |
-|                          | thẻ tín dụng của bạn vào |                 |
-|                          | để được một mã giảm giá, |                 |
-|                          | món quà .v.v . Điều đấy  |                 |
-|                          | thật nguy hiểm, hãy tạo  |                 |
-|                          | ngày một thẻ tín dụng    |                 |
-|                          | ngẩu nhiên để bảo vệ     |                 |
-|                          | thông tin cá nhân của    |                 |
-|                          | bạn ngay bây giờ         |                 |
+| `Credit Card             | Credit card number       | |Credit Card    |
+| Generator <h             | generator for all major  | Generator|      |
+| ttps://cardgener.com>`__ | brands and also for      |                 |
+|                          | validating them using    |                 |
+|                          | the Luhn algorithm.      |                 |
 +--------------------------+--------------------------+-----------------+
-| `Tìm kiếm                | Với công cụ này sẽ giúp  | |Best VPN free| |
-| Vpn                      | bạn tìm kiếm và so sánh  |                 |
-| <https://teahog.com/>`__ | giữa các dịch vụ VPN với |                 |
-|                          | nhau, xem dịch vụ của    |                 |
-|                          | bên nào ưu điểm nhược    |                 |
-|                          | điểm. Giúp bạn đưa ra    |                 |
-|                          | lựa chọn chính xác hơn   |                 |
+| `best free               | We provide the best free | |Best VPN free| |
+| VPN                      | VPN search engine for    |                 |
+| <https://teahog.com/>`__ | you. Search engines      |                 |
+|                          | according to many        |                 |
+|                          | different criteria       |                 |
 +--------------------------+--------------------------+-----------------+
 
-**Sonjj Solution**: Dự án này sẽ đưa ra loạt giải pháp tối ưu và tự động
-hóa các công việc nhàm chán trên máy tính. Ví dụ, bạn đang quản lý hàng
-trăm tại khoản Gmail, làm thế nào bạn có thể đăng nhập và kiểm tra hay
-đổi mật khẩu hàng loạt, bạn đang quản lý hàng trăm backlink làm thể nào
-bạn có thể kiểm tra backlink nào còn tồn tại, backlink nào đã mất v.v
-còn rất nhiều công việc khác nữa. Hiện tại dự án này đang trong quá
-trình thử nghiệm, tôi đang cố gắng để ra mắt các bạn sớm nhất có thể.
+**Sonjj Solution**: This project will offer a series of solutions to
+optimize and automate boring tasks on computers. For example, you are
+managing hundreds of Gmail accounts, how can you log in and check or
+change your password in bulk, you are managing hundreds of backlinks how
+can you check which backlinks are still available? there are many other
+jobs. Currently this project is in beta, I’m trying to get it to you
+guys as soon as possible.
 
-Bài viết gần nhất
------------------
+My latest posts
+---------------
 
 .. raw:: html
 
    <!-- BLOG-POST-LIST:START -->
 
-.. raw:: html
-
-   <!-- BLOG-POST-LIST:END -->
+-  `How to prevent GitHub from suspending your cronjob based
+   triggers <https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf>`__
+-  `How I built one of the top 20 most used Github
+   Actions <https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/>`__
+-  `Show your latest dev.to posts automatically on your GitHub profile
+   readme <https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8>`__
+-  `God Mode in browsers: document.designMode =
+   “on” <https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo>`__
+-  `Skipping the Chrome “Your connection is not private”
+   warning <https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1>`__
 
 .. |Visitor| image:: https://visitor-badge.laobi.icu/badge?page_id=public-sonjj/public-sonjj
    :target: https://github.com/public-sonjj
