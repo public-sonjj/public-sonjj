@@ -20,13 +20,3 @@ Hiện tại tôi là một Coder vừa là một Webmaster đang sống và là
 |[Tìm kiếm Vpn](https://teahog.com/ "Tìm kiếm Vpn") | Với công cụ này sẽ giúp bạn tìm kiếm và so sánh giữa các dịch vụ VPN với nhau, xem dịch vụ của bên nào ưu điểm nhược điểm. Giúp bạn đưa ra lựa chọn chính xác hơn |  [![Best VPN free](https://img.shields.io/badge/web-live-green "Best VPN free")](https://teahog.com "Best VPN free")  |
 
 **Sonjj Solution**: Dự án này sẽ đưa ra loạt giải pháp tối ưu và tự động hóa các công việc nhàm chán trên máy tính. Ví dụ, bạn đang quản lý hàng trăm tại khoản Gmail, làm thế nào bạn có thể đăng nhập và kiểm tra hay đổi mật khẩu hàng loạt, bạn đang quản lý hàng trăm backlink làm thể nào bạn có thể kiểm tra backlink nào còn tồn tại, backlink nào đã mất v.v còn rất nhiều công việc khác nữa. Hiện tại dự án này đang trong quá trình thử nghiệm, tôi đang cố gắng để ra mắt các bạn sớm nhất có thể.
-
-
-
-## Bài viết gần nhất
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-
-
