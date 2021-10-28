@@ -1,11 +1,10 @@
 {
   "name": "public-sonjj",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Public Sonjj",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npm publish --access public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,7 +18,7 @@
   "author": "Sonjj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/public-sonjj//issues"
+    "url": "https://github.com/public-sonjj/issues"
   },
   "homepage": "https://sonjj.com",
   "dependencies": {}
